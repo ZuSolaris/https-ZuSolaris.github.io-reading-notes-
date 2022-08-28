@@ -23,3 +23,5 @@ This also sounds easier than it really is but start small and gradually build yo
 When I served in the submarine force, I was blessed to a have supervisor that taught me the importance of self care I struggled with balancing my work and life and it took a toll on my productivity. I learned to relax and take breaks. My job wasn't my whole life. Sometimes you have to rejuvenate the energy that makes you, YOU! I really live by these words and understand that BURNOUT is a real threat in many industries and not just tech and it can happen to anyone!
 
 All of these thoughts are all in response to this [piece!](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+
+Link to My Portfolio! [Click Here](https://github.com/ZuSolaris)
