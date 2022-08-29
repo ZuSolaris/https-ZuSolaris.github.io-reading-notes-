@@ -1,5 +1,6 @@
 # Reading Notes
-Hi my name is Zoe Gonzalez I am 22 years old and I am a passionate about learning coding!
+Hi my name is Zoe Gonzalez I am 22 years old and I am a passionate about learning coding! I love to play video games such as Gran Turismo. I have a huge fascination for astronomy and space. I also animate and draw on the side! 
+-You can reach me @ zusolaris.personal@gmail.com
 
 -Click [Here](https://github.com/ZuSolaris) for my GitHub Profile!
 
