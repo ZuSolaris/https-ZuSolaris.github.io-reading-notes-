@@ -25,4 +25,18 @@ pwd print working directory = You are here directory
 **Cd .** =  level change = amount of dots +1\
 
 **mkdir** = Create a folder
+-These are just a few examples to name a few and not neccesarily included into the reading but are good for reference!
+
+-The resource ends with the result which is what happens after you input a command!
+
+## Basic Navigation 
+
+So basic navigation is an overview on how to navigate the command line interface!
+
+It begins with elaborating on PWD which is print working directory! Which tells you which directory you are currently in!
+
+
+
+
+
 
