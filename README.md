@@ -1,4 +1,4 @@
-# https-ZuSolaris.github.io-reading-notes-
+# Growth Mind Set Reading Notes for Code 102
 
 
 ## My Thoughts on a Growth Mindset
