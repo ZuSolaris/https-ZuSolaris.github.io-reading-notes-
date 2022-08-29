@@ -1,4 +1,4 @@
-# Growth Mind Set Reading Notes for Code 102
+# Reading Notes
 Hi my name is Zoe Gonzalez I am 22 years old and I am a passionate about learning coding!
 
 -Click [Here](https://github.com/ZuSolaris) for my GitHub Profile!
