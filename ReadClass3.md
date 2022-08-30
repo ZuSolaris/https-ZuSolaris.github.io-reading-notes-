@@ -1,9 +1,11 @@
 **Revisions and the Cloud**
 
-## Local Version Control 
+## Local Version Control
+
 A Local VCS entails one database on your hard disk that stores changes to files.
 
-## Centralized Version Control 
+## Centralized Version Control
+
 This system is a single server storing all changes and file versions, which can be accessed by various clients.
 
 ## Distributed Version Control
@@ -11,9 +13,10 @@ This system is a single server storing all changes and file versions, which can 
 It works like  a CVS but with multiple redundancies!
 
 ## What is Git?
+
 Its a DVCS that saves every revision made, it also resides on the local disk, it will track changes and since it is backed up  by multiple servers it will be hard to lose data.
 
-## Windows Git Website Download links for future reference!
+## Windows Git Website Download links for future reference
 
 -[Website Download](http://git-scm.com/download/win)
 
@@ -21,15 +24,18 @@ Its a DVCS that saves every revision made, it also resides on the local disk, it
 
 ## Graphical Clients
 
-It includes GUI tools or Graphical User Interface, but can also utilize 3rd party tools. 
+It includes GUI tools or Graphical User Interface, but can also utilize 3rd party tools.
 
-## Cloning on Git!
+## Cloning on Git
+
 This command allows you to clone an entire repository!
-*$ git clone https://github.com/test*
+*$ git clone <https://github.com/test>*
 This command allows you to clone the repository into a another directory!
-*$ git clone https://github.com/test mydirectory*
-## Local Repository Structure!
-Made up of 3 parts! 
+*$ git clone <https://github.com/test> mydirectory*
+
+## Local Repository Structure
+
+Made up of 3 parts!
 
 -Working Directory: The actual files reside here.
 
@@ -37,8 +43,9 @@ Made up of 3 parts!
 
 -Head: Points to the most recent commit
 
-##Saving Changes
-Files can either be Tracked or Untracked 
+## Saving Changes
+
+Files can either be Tracked or Untracked
 
 Tracked files can be modified, unmodified and staged. Since they are part of a snapshot!
 
@@ -50,12 +57,13 @@ Files go from Untracked to Unmodified to Modified to Stages and back to Untracke
 
 >$ git status
 
-## Tracking and Staging a New File 
+## Tracking and Staging a New File
+
 <sub>Lots OF CODE! </sub>
 Single File
 >git add filename
 
-All Files 
+All Files
 >$ git add *
 
 After you use the aforementioned commands you should see this!
@@ -65,17 +73,17 @@ After you use the aforementioned commands you should see this!
 
 >Changes to be committed:
 
-  >(use "git reset HEAD ..." to unstage)
+  >(use "git reset HEAD ..." to unstage)\
   
   >new file: EXAMPLE
 
 Once you see this you can proceed to committing your files!
 
-## Committing a File 
+## Committing a File
 
 >$git commit -m "made change x,y,z"
 
-## Commiting All Changes 
+## Commiting All Changes
 
 >$ git commit -a
 *This command commits a snapshot of all modifications to tracked files in the working directory.
