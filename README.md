@@ -3,7 +3,7 @@ Hi my name is Zoe Gonzalez I am 22 years old and I am a passionate about learnin
 -You can reach me @ zusolaris.personal@gmail.com
 
 -Click [Here](https://github.com/ZuSolaris) for my GitHub Profile!
--[Lab 2 Notes](https://zusolaris.github.io/reading-notes/ReadingClass2.md)
+-[Lab 2 Notes](https://zusolaris.github.io/reading-notes/ReadClass2.md)
 
 
 
