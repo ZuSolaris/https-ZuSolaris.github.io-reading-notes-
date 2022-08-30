@@ -2,8 +2,25 @@
 
 ## Choosing a text editor!
 
+A text editor is an online tool or built in software that allows you to edit or configure text and also has capabilities to design websites.
 
+Code completion and syntax highlighting are a few features that allow convenience and aswell as the ability to install themes and extensions.
 
+**First Party Options**
+You could use pre installed text editors that come with the pre installed OS. Such as Notepad for example these are often barebones!
+You might have to manually configure the extensions for the files after your complete adding on to the toll of a inconveience!
+
+**Third Party Options**
+There are options such as BBEdit, Text Wrangler, Text ++, and Visual Studio 
+All ranging in features for a varying level of budgets and experience levels!
+Some are compatible with all OS software and some are exclusive to MAC. 
+But they serve the purpose of a text editor at the most basic function.
+**IDES**
+So IDES are **INTEGRATED DEVELOPMENT ENVIROMENTS** which serve more of a purpose than being a text editor!
+Where it will debug, compile, and manage files all at once as well as serve as text editor!
+They are more complex and serve a advanced purpose! 
+
+So start with a text editor! :)
 
 
 ## *The Command Line*
