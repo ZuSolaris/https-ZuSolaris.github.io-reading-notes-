@@ -18,14 +18,14 @@ But they serve the purpose of a text editor at the most basic function.
 **IDES**
 So IDES are **INTEGRATED DEVELOPMENT ENVIROMENTS** which serve more of a purpose than being a text editor!
 Where it will debug, compile, and manage files all at once as well as serve as text editor!
-They are more complex and serve a advanced purpose! 
+They are more complex and serve a advanced purpose!
 
 So start with a text editor! :)
 
 
 ## *The Command Line*
 
-So this resource provides a break down of how commands works. 
+So this resource provides a break down of how commands works.
 
 -It begins by explaining inputs, outputs, and lines designations.
 
@@ -51,7 +51,7 @@ pwd print working directory = You are here directory
 
 -The resource ends with the result which is what happens after you input a command!
 
-## Basic Navigation 
+## Basic Navigation
 
 So basic navigation is an overview on how to navigate the command line interface!
 
@@ -69,7 +69,7 @@ And relative directories do not begin with these designations but are rather nav
 
 Terminals are  case sensitive it can't distinguish the difference between File.txt and FIle.TxT it takes it to the most literal sense.
 
-Spaces are used to seperate between files and commands and a file will never have spaces in them! 
+Spaces are used to seperate between files and commands and a file will never have spaces in them!
 
 Quotes give specific files a designation that they can fit under and \ can be used to break these designations!
 

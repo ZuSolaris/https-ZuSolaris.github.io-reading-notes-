@@ -11,9 +11,9 @@ This system is a single server storing all changes and file versions, which can 
 It works like  a CVS but with multiple redundancies!
 
 ## What is Git?
-Its a DVCS that saves every revision made, it also resides on the local disk, it will track changes and since it is backed up  by multiple servers it will be hard to lose data. 
+Its a DVCS that saves every revision made, it also resides on the local disk, it will track changes and since it is backed up  by multiple servers it will be hard to lose data.
 
-##Windows Git Website Download links for future reference!
+## Windows Git Website Download links for future reference!
 
 -[Website Download](http://git-scm.com/download/win)
 
@@ -46,11 +46,11 @@ Untracked files are in  the last snapshot and cannot be modified in the current 
 
 Files go from Untracked to Unmodified to Modified to Stages and back to Untracked and the cycle goes over.
 
-##To check a file's Status
+## To check a file's Status
 
 >$ git status
 
-##Tracking and Staging a New File 
+## Tracking and Staging a New File 
 <sub>Lots OF CODE! </sub>
 Single File
 >git add filename
@@ -96,22 +96,3 @@ Great for applying changes and not losing them.
 
 >git stash apply
 >Great for continuing projects!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
