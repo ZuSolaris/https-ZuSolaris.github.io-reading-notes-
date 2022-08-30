@@ -13,7 +13,7 @@ It works like  a CVS but with multiple redundancies!
 ## What is Git?
 Its a DVCS that saves every revision made, it also resides on the local disk, it will track changes and since it is backed up  by multiple servers it will be hard to lose data. 
 
-##Windows Git Websit Download links for future reference!
+##Windows Git Website Download links for future reference!
 
 -[Website Download](http://git-scm.com/download/win)
 
