@@ -104,3 +104,6 @@ Great for applying changes and not losing them.
 
 >git stash apply
 >Great for continuing projects!
+
+
+[Back to Home](https://zusolaris.github.io/reading-notes/)

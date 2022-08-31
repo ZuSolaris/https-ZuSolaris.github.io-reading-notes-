@@ -78,6 +78,7 @@ Hidden files can be made with an a. and -a can be used to reveal these directori
 [Back to Main Page](https://zusolaris.github.io/reading-notes/)
 
 
+[Back to Home](https://zusolaris.github.io/reading-notes/)
 
 
 

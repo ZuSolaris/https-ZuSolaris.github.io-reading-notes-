@@ -99,3 +99,6 @@ Heres the different type of color values along with the examples of how they are
 - HSL Value: color: hsl(89, 43%, 51%);
 
 - HSLA Value: color: hsla(89, 43%, 51%, 0.6);
+
+
+[Back to Home](https://zusolaris.github.io/reading-notes/)
