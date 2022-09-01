@@ -1,7 +1,7 @@
-#Operators and Loops
+# Operators and Loops
 
 
-##Expressions and Operators 
+## Expressions and Operators 
 
 
 An expression is a valid unit of code that resolves to a value.
@@ -93,5 +93,5 @@ A while statement executes its statements as long as a specified condition evalu
 
 while (condition)
   statement
-  
+
   [Back to Home](https://zusolaris.github.io/reading-notes/)
