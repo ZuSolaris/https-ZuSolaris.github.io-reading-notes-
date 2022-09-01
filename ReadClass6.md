@@ -1,9 +1,9 @@
 
 ## OMG its Javascript
 
-### Javascript 
+### Javascript
 
-Javascript is a just in time compiled programming language with first class function. 
+Javascript is a just in time compiled programming language with first class function.
 
 ## Applications that use JS
 
@@ -17,7 +17,7 @@ Javascript is a just in time compiled programming language with first class func
 
 The standard for JavaScript are the ECMAScript Language Specification (ECMA-262 )
 
-or 
+or
 
 ECMA Internationalization API specification (ECMA-402)
 
