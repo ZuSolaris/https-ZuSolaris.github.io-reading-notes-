@@ -2,7 +2,7 @@
 
 ## My Poem/Song. The verses have a consistent structure.
 
- ### Best description: it is a first person narrative of getting on the right website but it turns out they searched for the wrong one. Its a parody of the first two parts of "A Life Less Ordinary" by Motion City Soundtrack. 
+### Best description: it is a first person narrative of getting on the right website but it turns out they searched for the wrong one. Its a parody of the first two parts of "A Life Less Ordinary" by Motion City Soundtrack. 
 
 
 *"I didn't think, I'd download it.*
