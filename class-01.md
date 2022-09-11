@@ -168,11 +168,3 @@ Externally. This is done by referencing a JavaScript source and then listing the
 
 Inline this is when you include the actual JS script with the HTML code however it is not efficent and can disorder your code. 
 
-## Things I want to know more about
-- Search Engine Optimization
-
-- How to organize my code properly
-
-- Getting better at attributes
-
-- Learning how to use APIs

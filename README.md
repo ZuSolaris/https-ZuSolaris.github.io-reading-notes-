@@ -52,6 +52,15 @@ Hi my name is Zoe Gonzalez I am 22 years old and I am passionate about learning 
 ### Thats all for 102! Thanks for reading!
 
 
+## Things I want to know more about
 
+
+- Search Engine Optimization
+
+- How to organize my code properly
+
+- Getting better at attributes
+
+- Learning how to use APIs
 
 
