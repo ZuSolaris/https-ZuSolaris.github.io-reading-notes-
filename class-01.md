@@ -168,3 +168,4 @@ Externally. This is done by referencing a JavaScript source and then listing the
 
 Inline this is when you include the actual JS script with the HTML code however it is not efficent and can disorder your code. 
 
+[Back to Home](https://zusolaris.github.io/reading-notes/)
