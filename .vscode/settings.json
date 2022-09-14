@@ -1,9 +1,0 @@
-{
-  "audioCues.lineHasBreakpoint": "on",
-  "audioCues.lineHasError": "on",
-  "audioCues.lineHasFoldedArea": "on",
-  "audioCues.lineHasInlineSuggestion": "on",
-  "audioCues.lineHasWarning": "on",
-  "audioCues.noInlayHints": "on",
-  "audioCues.onDebugBreak": "on"
-}
