@@ -121,9 +121,3 @@ The usage of an *else if* statement is to give the function an addtional option 
 **source** (https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
 
 [Back to Home](https://zusolaris.github.io/reading-notes/)
-
-
-
-
-
-
