@@ -1,5 +1,7 @@
-# My Reading Notes for 201!
+# Welcome to my Reading Notes for 201!
 Hi my name is Zoe Gonzalez I am 22 years old and I am passionate about learning coding! I love to play video games such as Gran Turismo. I have a huge fascination for astronomy and space. I also animate and draw on the side!
+
+
 -You can reach me @ zusolaris.personal@gmail.com
 
 ![Meee](profpic.jpg)
@@ -16,9 +18,10 @@ Hi my name is Zoe Gonzalez I am 22 years old and I am passionate about learning 
 - [Class 04 Reading](https://zusolaris.github.io/reading-notes/class-04)
 - [Class 05 Reading](https://zusolaris.github.io/reading-notes/class-05)
 
+- [Class 06 Reading](https://zusolaris.github.io/reading-notes/class-06)
+
 >Links Below in Progress! ;D
 
-- [Class 06 Reading](https://zusolaris.github.io/reading-notes/class-06)
 - [Class 07 Reading](https://zusolaris.github.io/reading-notes/class-07)
 - [Class 08 Reading](https://zusolaris.github.io/reading-notes/class-08)
 - [Class 09 Reading](https://zusolaris.github.io/reading-notes/class-09)

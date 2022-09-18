@@ -55,5 +55,5 @@ Font-weight: This determines how thick or thin your characters turn out to be!
 5. **Describe two ways you could add spacing around the characters displayed in an h1 element.**
 By adding spaces within the element itself in HTML, 
 Or utilizing the text alignment feature in CSS!
-
++
 [Back to Home](https://zusolaris.github.io/reading-notes/)
