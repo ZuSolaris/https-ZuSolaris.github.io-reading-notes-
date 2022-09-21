@@ -24,8 +24,11 @@ Hi my name is Zoe Gonzalez I am 22 years old and I am passionate about learning 
 - [Class 06 Reading](https://zusolaris.github.io/reading-notes/class-06)
 
 - [Class 07 Reading](https://zusolaris.github.io/reading-notes/class-07)
->Links Below in Progress! ;D
+
 - [Class 08 Reading](https://zusolaris.github.io/reading-notes/class-08)
+
+>Links Below in Progress! ;D
+
 - [Class 09 Reading](https://zusolaris.github.io/reading-notes/class-09)
 - [Class 10 Reading](https://zusolaris.github.io/reading-notes/class-10)
 - [Class 11 Reading](https://zusolaris.github.io/reading-notes/class-11)
