@@ -13,7 +13,7 @@ There two types those that assign and those that evaluate!
 
 Here are all the types!
 
-![Cool](Thebest.PNG)
+![Cool](../img/Thebest.PNG)
 
 
 
@@ -76,7 +76,7 @@ A comparison operator compares its operands and returns a logical value based on
 
 It can be an integer, string, logical, or object value!
 
-![compa](comparisio.PNG)
+![compa](../img/comparisio.PNG)
 
 ## for statement
 

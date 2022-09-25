@@ -15,7 +15,7 @@ Objects exist by representing data in a simple and concise name while, arrays ex
 
 If an object is defined at runtime, you can alternatively acess it through bracket notation. Example Below!
 
-![Bracket](Brack.PNG)
+![Bracket](../img/Brack.PNG)
 Image Source:(https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
 
 5. **Evaluate the code below. What does the term *this* refers to and what is the advantage to using this?**

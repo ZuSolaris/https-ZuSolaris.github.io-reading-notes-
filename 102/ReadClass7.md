@@ -56,7 +56,7 @@ The code inside the function will execute when "something" invokes **(calls)** t
 
 **Example of Function Returns**
 
-![cODE](ExampleCode.PNG)
+![cODE](../img/ExampleCode.PNG)
 
 ## Why Use functions?
 
@@ -72,7 +72,7 @@ Function used as variable values!
 
 Functions can be used the same way you use
 
-![Cool.PNG](Cool.PNG)
+![Cool.PNG](../img/Cool.PNG)
 
 ## Types of Javascript Operators!
 
@@ -95,7 +95,7 @@ let y = 2;
 
 let z = x * y;
 
-![More](More.PNG)
+![More](../img/More.PNG)
 
 ## JavaScript String Operators
 
@@ -117,7 +117,7 @@ let z = "Hello" + 5;
 
 Javascript Comparison Operators
 
-![comp](comp.PNG)
+![comp](../img/comp.PNG)
 
 [Back to Home](https://zusolaris.github.io/reading-notes/)
 

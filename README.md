@@ -4,7 +4,7 @@ Hi my name is Zoe Gonzalez I am 22 years old and I am passionate about learning 
 
 -You can reach me @ zusolaris.personal@gmail.com
 
-![Meee](profpic.jpg)
+<img src="menew.jpg" alt="drawing" width="400"/>
 
 
 -Click [Here](https://github.com/ZuSolaris) for my GitHub Profile!
@@ -31,9 +31,11 @@ Hi my name is Zoe Gonzalez I am 22 years old and I am passionate about learning 
 
 - [Class 10 Reading](https://zusolaris.github.io/reading-notes/class-10)
 
+- [Class 11 Reading](https://zusolaris.github.io/reading-notes/class-11)
+
+
 >Links Below in Progress! ;D
 
-- [Class 11 Reading](https://zusolaris.github.io/reading-notes/class-11)
 - [Class 12 Reading](https://zusolaris.github.io/reading-notes/class-12)
 - [Class 13 Reading](https://zusolaris.github.io/reading-notes/class-13)
 - [Class 14 Reading](https://zusolaris.github.io/reading-notes/class-14)

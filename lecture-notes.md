@@ -21,7 +21,7 @@
 
 -it is defined as none
 
-let array = {'hello', 4 , true. [1,2,3]];
+let array = {'hello', 4 , true. [1,2,3];
 
 -Don't have to determine the size of an array
 -Every element has  a position in the array - referred to as it's index -Zero based index.

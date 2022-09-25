@@ -73,7 +73,7 @@ or
 
 ### **Examples**
 
-![Example](Javaa.PNG)
+![Example](../img/Javaa.PNG)
 
 ## **CONST?**
 
@@ -83,7 +83,7 @@ If you want a general rule: always declare variables with const.
 
 If you think the value of the variable can change, use let.
 
-![Example](price.PNG)
+![Example](../img/price.PNG)
 
 The two variables price1 and price2 are declared with the const keyword.
 
