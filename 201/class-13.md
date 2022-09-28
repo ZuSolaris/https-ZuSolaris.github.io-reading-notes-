@@ -1,4 +1,6 @@
-#Reading Assignment 13
+# Reading Assignment 13
+
+Source For Discussion: https://www.smashingmagazine.com/2010/10/local-storage-and-how-to-use-it/
 
 ## Local Storage and How To Use It On Websites
 
