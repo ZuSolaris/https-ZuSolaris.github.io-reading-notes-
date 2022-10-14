@@ -1,4 +1,4 @@
-# Welcome to my Reading Notes for 201!
+# Welcome to my Reading Notes for 301 and Beyond!
 Hi my name is Zoe Gonzalez I am 22 years old and I am passionate about learning coding! I love to play video games such as Gran Turismo and Burnout. I have a huge fascination for astronomy and space. I also animate and draw on the side!
 
 
@@ -8,8 +8,46 @@ Hi my name is Zoe Gonzalez I am 22 years old and I am passionate about learning 
 
 
 -Click [Here](/https://github.com/ZuSolaris) for my GitHub Profile!
+
+## Table of contents for Code 301
+
+
+- [Class 01 Reading](https://zusolaris.github.io/reading-notes/301/class-01)
+
+> Below is in Progress!
+
+- [Class 02 Reading](https://zusolaris.github.io/reading-notes/301/class-02)
+
+- [Class 03 Reading](https://zusolaris.github.io/reading-notes/301/class-03)
+
+- [Class 04 Reading](https://zusolaris.github.io/reading-notes/301/class-04)
+
+- [Class 05 Reading](https://zusolaris.github.io/reading-notes/301/class-05)
+
+- [Class 06 Reading](https://zusolaris.github.io/reading-notes/301/class-06)
+
+- [Class 07 Reading](https://zusolaris.github.io/reading-notes/301/class-07)
+
+- [Class 08 Reading](https://zusolaris.github.io/reading-notes/301/class-08)
+
+- [Class 09 Reading](https://zusolaris.github.io/reading-notes/301/class-09)
+
+- [Class 10 Reading](https://zusolaris.github.io/reading-notes/301/class-10)
+
+- [Class 11 Reading](https://zusolaris.github.io/reading-notes/301/class-11)
+
+- [Class 12 Reading](https://zusolaris.github.io/reading-notes/301/class-12)
+
+- [Class 13 Reading](https://zusolaris.github.io/reading-notes/301/class-13)
+
+- [Class 14 Reading](https://zusolaris.github.io/reading-notes/301/class-14)
+
+- [Class 15 Reading](https://zusolaris.github.io/reading-notes/201/class-15)
+
+
 ## Table of contents for Code 201
 
+>This Section is complete!
 
 - [Class 01 Reading](https://zusolaris.github.io/reading-notes/201/class-01)
 
