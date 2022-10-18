@@ -37,3 +37,5 @@ These properties are primarily used to transfer data from one component to the n
 **What is the flow of props?**
 
 The flow of props is being passed in a uni-directional flow. A different way to explain this process is the data goes in one way from parent to child. 
+
+[Back to Home](https://zusolaris.github.io/reading-notes/)
