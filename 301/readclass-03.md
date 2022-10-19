@@ -29,7 +29,7 @@ JavaScript, spread syntax refers to this thing >>> (…) to expand an object int
 
 **List 4 things that the spread operator can do.**
 
-- bAdding an item to a list
+- Adding an item to a list
 - Adding to state in React
 - Combining objects
 - Converting NodeList to an array
