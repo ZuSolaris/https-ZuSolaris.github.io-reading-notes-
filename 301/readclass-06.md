@@ -1,6 +1,6 @@
 ## Reading Assignment 6
 
-An Introduction to Node.js on sitepoint.com
+## An Introduction to Node.js
 
 https://www.sitepoint.com/an-introduction-to-node-js/
 
@@ -36,7 +36,7 @@ npm install -g jshint
 
 Used make a more efficent process of developing a modern JavaScript application.
 
-6 Reasons for Pair Programming
+## 6 Reasons for Pair Programming
 
 **What are the 6 reasons for pair programming?**
 
