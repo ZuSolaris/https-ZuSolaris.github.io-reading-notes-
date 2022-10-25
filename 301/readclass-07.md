@@ -13,12 +13,15 @@ Its HTTP that uses verbs and nouns to perform actions.
 **What does a GET do?**
 
 GET is referring to the action of grabbing a readable resource for either, a machine or the user.
+
 **What does a POST do?**
 
 When a system adds something to another system it is called a POST.
+
 **What does PUT do?**
 
 If a system wishes to replace something in another system it will utilize PUT.
+
 **What does PATCH do?**
 
 If a system only wants to do a partial update the system will use patch.
