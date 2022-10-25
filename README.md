@@ -81,6 +81,8 @@ Hi my name is Zoe Gonzalez I am 22 years old and I am passionate about learning 
 
 - [Class 15 Reading](https://zusolaris.github.io/reading-notes/201/class-15)
 
+### Thats all for 201! Thanks for reading!
+
 ## Table of Contents for Code 102
 
 >This Section is complete!
