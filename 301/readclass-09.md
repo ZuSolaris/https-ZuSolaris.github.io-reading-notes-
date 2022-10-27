@@ -42,4 +42,3 @@ Using the require keyword you bring in the function within a string and '/' in t
 module.export and make it equal to the variable I want to make available. 
 
 [Back to Home](https://zusolaris.github.io/reading-notes/)
-
