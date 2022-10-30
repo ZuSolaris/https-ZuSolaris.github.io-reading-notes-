@@ -65,5 +65,8 @@ MongoDB has greater scalability and its has compatibility to read between both S
 
 **What is the disadvantage of a NoSQL database?**
 
-The vertical scaling of No SQL will eventually reach a limit at some point. 
+The vertical scaling of No SQL will eventually reach a limit at some point.
+
+[Back to Home](https://zusolaris.github.io/reading-notes/)
+
 
