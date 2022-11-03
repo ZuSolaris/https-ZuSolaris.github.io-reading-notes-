@@ -28,3 +28,5 @@ Step 3: Set up server parameters.(envs, url)
 Step 4: Set Up Database Relationship.
 
 Step 5: Test the server and deploy.
+
+[Back to Home](https://zusolaris.github.io/reading-notes/)
