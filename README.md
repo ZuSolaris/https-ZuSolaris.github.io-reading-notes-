@@ -9,6 +9,8 @@ Hi my name is Zoe Gonzalez I am 22 years old and I am passionate about learning 
 
 -Click [Here](/https://github.com/ZuSolaris) for my GitHub Profile!
 
+## Bonus Readings
+- [SQL](https://zusolaris.github.io/reading-notes/401/SQL)
 
 ## Table of Contents for Code 401
 - [Class 01 Reading](https://zusolaris.github.io/reading-notes/401/readclass-01)
