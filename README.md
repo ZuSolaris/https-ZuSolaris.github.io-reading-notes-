@@ -12,6 +12,8 @@ Hi my name is Zoe Gonzalez I am 22 years old and I am passionate about learning 
 ## Bonus Readings
 - [SQL](https://zusolaris.github.io/reading-notes/401/SQL)
 
+- [Growth Mindset](https://zusolaris.github.io/reading-notes/401/mindset)
+
 ## Table of Contents for Code 401
 - [Class 01 Reading](https://zusolaris.github.io/reading-notes/401/readclass-01)
 
