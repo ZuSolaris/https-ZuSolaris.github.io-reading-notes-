@@ -9,8 +9,44 @@ Hi my name is Zoe Gonzalez I am 22 years old and I am passionate about learning 
 
 -Click [Here](/https://github.com/ZuSolaris) for my GitHub Profile!
 
+
+## Table of Contents for Code 401
+- [Class 01 Reading](https://zusolaris.github.io/reading-notes/401/readclass-01)
+
+- [Class 02 Reading](https://zusolaris.github.io/reading-notes/401/readclass-02)
+
+- [Class 03 Reading](https://zusolaris.github.io/reading-notes/401/readclass-03)
+
+- [Class 04 Reading](https://zusolaris.github.io/reading-notes/401/readclass-04)
+
+- [Class 05 Reading](https://zusolaris.github.io/reading-notes/401/readclass-05)
+
+- [Class 06 Reading](https://zusolaris.github.io/reading-notes/401/readclass-06)
+
+- [Class 07 Reading](https://zusolaris.github.io/reading-notes/401/readclass-07)
+
+- [Class 08 Reading](https://zusolaris.github.io/reading-notes/401/readclass-08)
+
+- [Class 09 Reading](https://zusolaris.github.io/reading-notes/401/readclass-09)
+
+- [Class 10 Reading](https://zusolaris.github.io/reading-notes/401/readclass-10)
+
+- [Class 11 Reading](https://zusolaris.github.io/reading-notes/401/readclass-11)
+
+- [Class 12 Reading](https://zusolaris.github.io/reading-notes/401/readclass-12)
+
+- [Class 13 Reading](https://zusolaris.github.io/reading-notes/401/readclass-13)
+
+- [Class 14 Reading](https://zusolaris.github.io/reading-notes/401/readclass-14)
+
+- [Class 15 Reading](https://zusolaris.github.io/reading-notes/401/readclass-15)
+
+
+
+
 ## Table of contents for Code 301
 
+This Section is Complete!
 
 - [Class 01 Reading](https://zusolaris.github.io/reading-notes/301/readclass-01)
 
@@ -36,14 +72,9 @@ Hi my name is Zoe Gonzalez I am 22 years old and I am passionate about learning 
 
 - [Class 12 Reading](https://zusolaris.github.io/reading-notes/301/readclass-12)
 
-> Below is in Progress!> Below is in Progress!> Below is in Progress!> Below is in Progress!
-
 - [Class 13 Reading](https://zusolaris.github.io/reading-notes/301/readclass-13)
 
 - [Class 14 Reading](https://zusolaris.github.io/reading-notes/301/readclass-14)
-
-- [Class 15 Reading](https://zusolaris.github.io/reading-notes/201/readclass-15)
-
 
 ## Table of contents for Code 201
 
@@ -105,8 +136,6 @@ Hi my name is Zoe Gonzalez I am 22 years old and I am passionate about learning 
 
 ### Thats all for 102! Thanks for reading!
 
-## Table of Contents for Code 401
-> Coming Soon!!!
 
 *ZuSolaris/ Zoe Gonzalez*
 
