@@ -11,3 +11,5 @@
 **File Manipulation:** Mkdir creates the directories on the terminal, while rmdir does the opposite and removes the mentioned directory. If you are looking for a file it does not exist it will then create the file. cp stands for copying a file after providing the path and source file. To move a file you use mv which will then shift the file. rm removes the file you want are targeting, this one is dangerous because if youa aren't specific it can delete more than you want. 
 
 **Summary:** I did not really have any aha, moments aside from learning about the manual pages, like that is such a useful tool for future reference. I also pinned the cheat sheet in my bookmarks super useful. But I did observe that I am, very comfortable with navigation and file manipulation through experience.
+
+[Back to Home](https://zusolaris.github.io/reading-notes/)

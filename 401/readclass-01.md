@@ -27,4 +27,7 @@ I'm really looking forward to the focus on career prep in this module. It looks 
 
 I have one main learning goal and since it looks like code challenges are here to stay, in conjunction with a Udemy course I got, I would like to be speedy at code challenges which will help with the workshops as well. I've struggled with them since 301, but I have made a great amount of progress since then. 
 
-A secondary goal is to somewhat be reliable with ReactJS and Redux without needing much help to get through problems it seems like this course is going to be the most intense yet so I'm ready for it. 
+A secondary goal is to somewhat be reliable with ReactJS and Redux without needing much help to get through problems it seems like this course is going to be the most intense yet so I'm ready for it.
+
+[Back to Home](https://zusolaris.github.io/reading-notes/)
+

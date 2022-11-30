@@ -7,3 +7,5 @@ We should always approach problems and data in way that not only allows us to be
 **How can we ensure that we’ll avoid an infinite recursive call stack?**
 
 In my experience using a conditional or a return or even making the code break if a requirement is not met.
+
+[Back to Home](https://zusolaris.github.io/reading-notes/)

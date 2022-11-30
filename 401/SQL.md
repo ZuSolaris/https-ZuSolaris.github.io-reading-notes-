@@ -57,3 +57,5 @@ Lesson 18
 
 
 A relational database stores data within tables and rows, which get are also called records. They link information and assign through the usage of keys. They can be relational meaning that there is a primary key which is added to the record of another table. When referencing that key in another table this key becomes a foreign key. The primary key and foreign key relation creates the 'relational' database. Perfect for structured data types, and makesfaster query response times.
+
+[Back to Home](https://zusolaris.github.io/reading-notes/)

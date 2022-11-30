@@ -21,6 +21,7 @@ Hi my name is Zoe Gonzalez I am 22 years old and I am passionate about learning 
 - [Terminal Practice](https://zusolaris.github.io/reading-notes/401/terminal)
 
 ## Table of Contents for Code 401
+
 - [Class 01 Reading](https://zusolaris.github.io/reading-notes/401/readclass-01)
 
 - [Class 02 Reading](https://zusolaris.github.io/reading-notes/401/readclass-02)
