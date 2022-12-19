@@ -57,4 +57,4 @@ Middlewares
 
 ### Discuss a possible use case for separate namespaces
 
-Make it where only authorized users have access to a seperate namespace with it's own individual roles and such.
+Make it where only authorized users have access to a seperate namespace with it's own individual roles and such.ls
