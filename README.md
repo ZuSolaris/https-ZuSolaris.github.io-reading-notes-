@@ -1,10 +1,10 @@
-# Welcome to my Reading Notes for 301 and Beyond!
+# Welcome to my Reading Notes for 401 and Beyond!
 Hi my name is Zoe Gonzalez I am 22 years old and I am passionate about learning coding! I love to play video games such as Gran Turismo and Burnout. I have a huge fascination for astronomy and space. I also animate and draw on the side!
 
 
 -You can reach me @ zusolaris.personal@gmail.com
 
-<img src="./img/menew.jpg" alt="Profile pic of me" width="400"/>
+<img src="./img/meek.jpg" alt="Profile pic of me" width="400"/>
 
 
 -Click [Here](/https://github.com/ZuSolaris) for my GitHub Profile!
@@ -55,6 +55,10 @@ Hi my name is Zoe Gonzalez I am 22 years old and I am passionate about learning 
 - [Class 16 Reading](https://zusolaris.github.io/reading-notes/401/readclass-16)
 
 - [Class 17 Reading](https://zusolaris.github.io/reading-notes/401/readclass-17)
+
+- [Class 18 Reading](https://zusolaris.github.io/reading-notes/401/readclass-18)
+
+- [Class 19 Reading](https://zusolaris.github.io/reading-notes/401/readclass-19)
 
 
 
