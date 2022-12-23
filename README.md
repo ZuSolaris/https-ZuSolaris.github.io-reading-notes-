@@ -123,6 +123,10 @@ This Section is Complete!
 
 - [Class 15 Reading](https://zusolaris.github.io/reading-notes/201/class-15)
 
+- [Class 16 Reading](https://zusolaris.github.io/reading-notes/201/class-16)
+
+- [Class 17 Reading](https://zusolaris.github.io/reading-notes/201/class-17)
+
 ### Thats all for 201! Thanks for reading!
 
 ## Table of Contents for Code 102
