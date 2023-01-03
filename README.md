@@ -1,5 +1,5 @@
 # Welcome to my Reading Notes for 401 and Beyond!
-Hi my name is Zoe Gonzalez I am 22 years old and I am passionate about learning coding! I love to play video games such as Gran Turismo and Burnout. I have a huge fascination for astronomy and space. I also animate and draw on the side!
+Hi my name is Zoe Gonzalez I am 23 years old and I am passionate about learning coding! I love to play video games such as Gran Turismo and Burnout. I have a huge fascination for astronomy and space. I also animate and draw on the side!
 
 
 -You can reach me @ zusolaris.personal@gmail.com
@@ -13,6 +13,7 @@ Hi my name is Zoe Gonzalez I am 22 years old and I am passionate about learning 
 
 - [Data Structures and Algorithims](https://zusolaris.github.io/reading-notes/401/dsa)
 
+- [Blog](https://zusolaris.github.io/reading-notes/401/blog-01)
 
 - [SQL](https://zusolaris.github.io/reading-notes/401/SQL)
 
