@@ -61,6 +61,15 @@ Hi my name is Zoe Gonzalez I am 23 years old and I am passionate about learning 
 
 - [Class 19 Reading](https://zusolaris.github.io/reading-notes/401/readclass-19)
 
+- [Class 26 Reading](https://zusolaris.github.io/reading-notes/401/readclass-26)
+
+- [Class 27 Reading](https://zusolaris.github.io/reading-notes/401/readclass-27)
+
+- [Class 28 Reading](https://zusolaris.github.io/reading-notes/401/readclass-28)
+
+- [Class 29 Reading](https://zusolaris.github.io/reading-notes/401/readclass-29)
+
+
 
 
 ## Table of contents for Code 301
